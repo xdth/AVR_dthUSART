@@ -16,7 +16,6 @@
 #define BAUD	0x0C // or 12, for 9600.00 bit rate at 1.000 MHz, U2Xn = 1 (asynchronous), error 0.2%
 #endif
 
-
 #ifndef USE_2X
 #define USE_2X  1
 #endif
