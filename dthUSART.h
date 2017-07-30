@@ -26,7 +26,6 @@
 */
 // USART_init
 void USART_init(void);
-// void USART_init(unsigned int)
 
 // byte_transmit
 void byte_transmit(unsigned char);
