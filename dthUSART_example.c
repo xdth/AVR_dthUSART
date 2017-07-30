@@ -18,7 +18,7 @@
 #include <avr/io.h>
 #include <string.h>          // strcmp()
 #include <util/delay.h>
-#include "dthUSART.h"        // dthUSART C library
+#include "dthUSART.h"        // dthUSART library
 
 
 /*
